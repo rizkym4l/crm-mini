@@ -11,6 +11,7 @@ The agent chats with buyers, answers product questions from a catalog, takes ord
 | [PRD](./docs/PRD.md) | What to build and why: goals, users, requirements, success criteria |
 | [Design](./docs/DESIGN.md) | How it works: architecture, data model, agent loop, tools, safety rules |
 | [Tasks](./docs/TASKS.md) | Build steps by phase, with checks and test scenarios |
+| [Workflow](./docs/WORKFLOW.md) | How I build each task with AI: design, review, build, test, PR |
 
 ## Status
 
